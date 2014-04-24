@@ -9,7 +9,7 @@ namespace Practica4
 			int opc;
 			do{
 				
-				Console.WriteLine("Menu de productos \n");
+				
 			
 				Console.WriteLine("Seleccione una opcion:\n");
 			
